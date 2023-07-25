@@ -1,0 +1,28 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sage",
+  "license": "ISC",
+  "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "browser-sync": "^2.27.5",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify-es": "^3.0.0",
+    "jquery": "^3.6.0",
+    "mixitup": "^3.3.1",
+    "paginationjs": "^2.1.5",
+    "sass": "^1.38.0",
+    "slick-carousel": "^1.8.1",
+    "video.js": "^7.15.4"
+  }
+}
